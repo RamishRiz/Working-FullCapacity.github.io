@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Week 2 | Working at Full Capacity</title>
+  <link rel="stylesheet" href="../style.css" />
+</head>
+
+<body>
+
+  <header class="site-header">
+    <h1>Week 2 Edition</h1>
+    <p>Working at Full Capacity.</p>
+
+    <nav>
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Archive</a>
+    </nav>
+  </header>
+
+  <main class="container">
+
+    <section class="hero">
+      <h2>Welcome Back!!!</h2>
+      <p>
+        Insert HANG OVER MEME
+      </p>
+    </section>
+
+    <section class="card">
+      <h2>Lingo to fit in</h2>
+      <p>
+      <p>"The passing was good, but they lacked clinical finishing." (Translation: Nobody scored and it was incredibly boring.) 
+      <p>"They really miss their holding midfielder." (Translation: I have no idea who is playing, but this makes me sound like a genius.) 
+      <p>"The referee has completely lost control of this match." (Type this in all-caps whenever anyone gets a card. Works 100% of the time. 
+    </section>
+
+    <section class="card">
+      <h2>Hand of Voz</h2>
+      <p>
+        Goalkeeper Vozinha, age 40, made seven saves. The match made him a global viral figure after a heroic clean sheet and an Instagram jump from roughly 40–50k followers to nearly 12 million. For context, Cape Verde’s population is only around 600,000. 
+      </p>
+      <img src=>
+
+    </section>
+
+    <section class="card">
+      <h2>💬 Quote of the Week</h2>
+      <p>
+        “It’s just a big day, and it’s a great sport...”
+      </p>
+      <p>
+        No one thought what would happen? The World Cup in North America?
+        This guy man 🤦‍♂️
+      </p>
+    </section>
+
+    <section class="card">
+      <h2>🇲🇽 Nation Spotlight: Mexico</h2>
+      <img src="../images/mexico.webp" class="feature-image">
+      <p><strong>Famous Footballer:</strong> Javier “Chicharito” Hernández</p>
+      <p><strong>National Dish:</strong> Tacos</p>
+      <p><strong>Weird Fact:</strong> Mexico City is slowly sinking.</p>
+      <p><strong>Spirit of Choice:</strong> Tequila</p>
+      <p><strong>World Cup Chances:</strong> ⭐⭐⭐⬛⬛</p>
+    </section>
+
+    <section class="card">
+      <h2>💼 iPower Codes</h2>
+      <p>Watching Matches in the Office — <strong>31002026/T001</strong></p>
+      <p>Checking Sweepstake Results — <strong>31002026/T002</strong></p>
+      <p>Reading the Newsletter — <strong>31002026/T067</strong></p>
+    </section>
+
+    <section class="card">
+      <h2>🧠 Trivia</h2>
+      <ol>
+        <li>What country is famous for samba, skill and more World Cups than anyone else?</li>
+        <li>What team does Fitzy play for?</li>
+        <li>What part of the TCA 1997 deals with the R&D tax credit?</li>
+      </ol>
+    </section>
+
+  </main>
+
+  <footer>
+    <p>Yours in Football, R & O</p>
+  </footer>
+
+</body>
+</html>
