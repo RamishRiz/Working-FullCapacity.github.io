@@ -203,6 +203,61 @@ nav a:hover {
   border-radius: 12px;
 }
 
+/* TABLE */
+
+.table-container {
+  overflow-x: auto;
+}
+
+.sweepstake-table {
+  width: 100%;
+
+  border-collapse: collapse;
+
+  background: #1b1b1b;
+
+  border-radius: 14px;
+
+  overflow: hidden;
+
+  margin-bottom: 40px;
+}
+
+.sweepstake-table th {
+  background: #c40000;
+
+  color: white;
+
+  padding: 16px;
+
+  text-align: center;
+}
+
+.sweepstake-table td {
+  padding: 14px;
+
+  text-align: center;
+
+  border-bottom: 1px solid #333;
+}
+
+.sweepstake-table tr {
+  transition: 0.3s;
+}
+
+.sweepstake-table tr:hover {
+  background: #242424;
+}
+
+.top-team {
+  background: rgba(255, 204, 0, 0.08);
+}
+
+.top-team td:first-child {
+  color: #ffcc00;
+  font-weight: bold;
+}
+
 footer {
   text-align: center;
   padding: 25px;
