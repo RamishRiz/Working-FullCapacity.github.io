@@ -227,6 +227,10 @@ nav a:hover {
   border-bottom: 1px solid #e5e7eb;
 }
 
+.sweepstake-table tbody td {
+  color: #111827;
+}
+
 .sweepstake-table th:nth-child(2),
 .sweepstake-table td:nth-child(2) {
   text-align: left;
