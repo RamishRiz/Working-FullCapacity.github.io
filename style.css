@@ -204,15 +204,23 @@ nav a:hover {
 }
 
 .lingo-item {
-  padding: 14px 16px;
-  margin-bottom: 12px;
-  background: #f9fafb;
-  border-left: 4px solid #111827;
-  border-radius: 8px;
+  background: #1f2937;
+  border-left: 4px solid #facc15;
+  border-radius: 10px;
+  padding: 16px 18px;
+  margin-top: 16px;
 }
 
-.lingo-item p {
-  margin: 6px 0;
+.lingo-quote {
+  margin: 0 0 8px;
+  font-weight: 700;
+  color: #ffffff;
+}
+
+.lingo-translation {
+  margin: 0;
+  color: #d1d5db;
+  font-size: 0.95rem;
 }
 
 /* TABLE */
