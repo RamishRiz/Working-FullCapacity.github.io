@@ -277,6 +277,10 @@ footer {
   margin-top: 40px;
 }
 
+.small-text {
+  font-size: 0.8rem;
+}
+
 footer p {
   margin: 6px 0;
 }
