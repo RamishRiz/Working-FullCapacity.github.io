@@ -225,6 +225,13 @@ nav a:hover {
 
 /* TABLE */
 
+.owner-name {
+  font-size: 0.85rem;
+  color: #6b7280;
+  font-style: italic;
+  margin-top: 2px;
+}
+
 .table-container {
   width: 100%;
   overflow-x: auto;
