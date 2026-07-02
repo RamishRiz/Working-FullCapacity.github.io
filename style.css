@@ -308,6 +308,12 @@ footer {
   font-size: 0.8rem;
 }
 
+.large-image {
+  width: 100%;
+  max-width: 1000px;
+  height: auto;
+}
+
 footer p {
   margin: 6px 0;
 }
